@@ -1,0 +1,48 @@
+*{
+    max-width: auto;
+    margin: 0%;
+    padding: 0%;
+}
+.post{
+    margin-left: 130px;
+    width: 800%;
+}
+h2{
+    margin-left: 160px;
+    margin-bottom: 30px;
+}
+#latest-hr{
+    width: 80%;
+}
+.flex-post{
+    display: flex;
+    flex-direction: row;
+}
+.toppost{
+    width: 300%;
+}
+.round-img{
+    width: 150%;
+    height: 70%;
+    border-radius: 50%;
+}
+.advertise{
+    border: 1px solid black;
+    font-weight: 500;
+    margin-bottom: 10px;
+    width: 60%;
+    height: 300px;
+    text-align: center;
+    line-height: 15;
+}
+.advertise img{
+    width: 100%;
+    height: 300px;
+}
+
+.card-text{
+    width: 140%;
+}
+#top-hr{
+    width: 70%;
+}

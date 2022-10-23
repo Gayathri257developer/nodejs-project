@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    line-height: 1;
+    margin: 35px;
+}
+span{
+    writing-mode: vertical-lr;
+    transform: scale(-1,-1);
+    font-size: 20px;
+    color: rgb(0, 0, 0); 
+}
+.navbar{
+    line-height: 2;
+    margin: 1rem;
+    width: 80%;
+    position: relative;
+    top: 0px;
+    left: 10%;
+}
+.link{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+.link:hover{
+    transition: ease-in;
+    color: purple;
+    font-weight: 600;
+    text-decoration: underline;
+}
+.hr-tag{
+ width: 80%;
+ overflow: hidden;
+ margin-left: 150px;
+ 
+}
